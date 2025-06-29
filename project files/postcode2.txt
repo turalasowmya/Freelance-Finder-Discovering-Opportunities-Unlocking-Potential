@@ -1,0 +1,71 @@
+<!-- wp:paragraph -->
+<p>Confidential • Ballepally, Telangana • via jobupdate</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>JOB DESCRIPTION<br>Top Earnings in BLINKIT DELIVERY BOY (55,000 TO 70,000)<br><br>Documents required-<br><br>Aadhar card<br>Pan card<br>Bank account<br>Bike<br>• Work within 3 to 4hours of joining<br>• Flexible time<br>Anytime login and logout<br>• No service charges<br>• Earn joining bonus of Rs.7999 with only completing. 20orders<br>• Daily/weekly payouts<br>• Work less earn more<br>• Work in your location in your area<br>• Get weekly incentives<br>Join immediately direct hiring</summary><!-- wp:paragraph {"placeholder":"Type / to add a hidden block"} -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">APPLY</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></details>
+<!-- /wp:details -->
+
+<!-- wp:comments -->
+<div class="wp-block-comments"><!-- wp:comments-title /-->
+
+<!-- wp:comment-template -->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"40px"} -->
+<div class="wp-block-column" style="flex-basis:40px"><!-- wp:avatar {"size":40,"style":{"border":{"radius":"20px"}}} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:comment-author-name {"fontSize":"small"} /-->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"layout":{"type":"flex"}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px"><!-- wp:comment-date {"fontSize":"small"} /-->
+
+<!-- wp:comment-edit-link {"fontSize":"small"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:comment-content /-->
+
+<!-- wp:comment-reply-link {"fontSize":"small"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:comment-template -->
+
+<!-- wp:comments-pagination -->
+<!-- wp:comments-pagination-previous /-->
+
+<!-- wp:comments-pagination-numbers /-->
+
+<!-- wp:comments-pagination-next /-->
+<!-- /wp:comments-pagination --></div>
+<!-- /wp:comments -->
+
+<!-- wp:loginout /-->
+
+
+   <div class="form-container">
+    <h2>Apply Now</h2>
+    <form action="/submit-form" method="POST" enctype="multipart/form-data">
+      <label for="name">Full Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Email Address:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="resume">Upload Resume (PDF/DOC):</label>
+      <input type="file" id="resume" name="resume" accept=".pdf, .doc, .docx" required>
+
+      <input type="submit" value="Submit Application">
+    </form>
+  </div>
+
+</body>
+</html>

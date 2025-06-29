@@ -1,0 +1,99 @@
+<!-- wp:paragraph -->
+<p>Kotak Mahindra • Vijayawada, Andhra Pradesh • via jobupdate</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":18,"width":"56px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="https://jobupdate.unaux.com/wp-content/uploads/2025/06/images.jpg" alt="" class="wp-image-18" style="width:56px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:details -->
+<details class="wp-block-details"><summary>JOB DESCRUBTION<br>Job Name : Branch Operations Manager<br><br>JOB Role:<br>• Responsible for management of day-to-day operations of the branch.<br>• Ensuring strict adherence to prescribed processes, audit and regulatory requirements.<br>• Timely authorization and checking SO/SDO/RO system input for customer transaction/ service request.<br>• Branch Lobby and customer Queue management.<br>• Managing cash (including FX and TCs) at the branch and ensuring that cash (including FX and TCs) is within branch limit.<br>• Customer complains management and ensuring resolution of all complaints within TAT.<br>• Be responsible for the AML &amp; KYC compliance of the various account opening forms submitted to CPC/RPC<br><br>Job Requirement:<br>• MBA/Graduate<br>• Minimum work exp. – 3 years<br>• Thorough overall understanding of banking<br>• Customer service orientation<br>• Ability to manage and motivate front office staff.</summary><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">APPLY NOW</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></details>
+<!-- /wp:details -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">APPLY NOW</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->v
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Job Application Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f2f2f2;
+    }
+
+    .form-container {
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+      width: 400px;
+      margin: auto;
+    }
+
+    h2 {
+      text-align: center;
+    }
+
+    label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    input[type="file"] {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+
+    input[type="submit"] {
+      margin-top: 20px;
+      width: 100%;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      padding: 12px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="form-container">
+    <h2>Apply Now</h2>
+    <form action="/submit-form" method="POST" enctype="multipart/form-data">
+      <label for="name">Full Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Email Address:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="resume">Upload Resume (PDF/DOC):</label>
+      <input type="file" id="resume" name="resume" accept=".pdf, .doc, .docx" required>
+
+      <input type="submit" value="Submit Application">
+    </form>
+  </div>
+
+</body>
+</html>
